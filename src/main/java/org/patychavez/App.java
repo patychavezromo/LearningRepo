@@ -1,5 +1,6 @@
 package org.patychavez;
 
+import org.patychavez.matrixprinter.MatrixPrinter;
 import org.patychavez.stringreverser.StringReverser;
 
 /**
@@ -10,7 +11,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        String output = StringReverser.main("MyString");
-        System.out.println(output);
+        StringReverser.main();
     }
 }

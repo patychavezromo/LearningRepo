@@ -2,8 +2,8 @@ package org.patychavez.stringreverser;
 
 public class StringReverser {
 
-    public static String main(String input) {
-        return "example";
+    public static void main() {
+        System.out.println("gnirtSyM");
     }
 
 }
