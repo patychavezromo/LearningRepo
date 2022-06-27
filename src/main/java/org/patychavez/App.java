@@ -1,7 +1,6 @@
 package org.patychavez;
 
-import org.patychavez.matrixprinter.MatrixPrinter;
-import org.patychavez.stringreverser.StringReverser;
+import org.patychavez.stringreverser.StringReverserMain;
 
 /**
  * Hello world!
@@ -11,6 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        StringReverser.main();
+
+        StringReverserMain.main();
     }
 }
