@@ -1,7 +1,7 @@
 package org.patychavez;
 
-import org.patychavez.matrixprinter.MatrixPrinterMain;
-import org.patychavez.stringreverser.StringReverserMain;
+import org.patychavez.arraypractice.matrixprinter.MatrixPrinterMain;
+import org.patychavez.arraypractice.onedimensionalarray.OneDimensionalArrayMain;
 
 /**
  * Hello world!
@@ -12,6 +12,6 @@ public class App
     public static void main( String[] args )
     {
 
-        MatrixPrinterMain.main();
+        OneDimensionalArrayMain.main();
     }
 }

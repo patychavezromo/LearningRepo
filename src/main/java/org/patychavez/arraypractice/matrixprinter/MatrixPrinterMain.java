@@ -1,4 +1,4 @@
-package org.patychavez.matrixprinter;
+package org.patychavez.arraypractice.matrixprinter;
 
 public class MatrixPrinterMain {
 

@@ -1,4 +1,4 @@
-package org.patychavez.stringreverser;
+package org.patychavez.loops.stringreverser;
 
 public class StringReverser {
     public String reverse(String originalText) {
