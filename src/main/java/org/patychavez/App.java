@@ -1,5 +1,6 @@
 package org.patychavez;
 
+import org.patychavez.matrixprinter.MatrixPrinterMain;
 import org.patychavez.stringreverser.StringReverserMain;
 
 /**
@@ -11,6 +12,6 @@ public class App
     public static void main( String[] args )
     {
 
-        StringReverserMain.main();
+        MatrixPrinterMain.main();
     }
 }
