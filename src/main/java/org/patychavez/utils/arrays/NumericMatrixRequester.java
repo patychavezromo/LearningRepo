@@ -1,4 +1,4 @@
-package org.patychavez.utils;
+package org.patychavez.utils.arrays;
 
 import java.util.Scanner;
 
