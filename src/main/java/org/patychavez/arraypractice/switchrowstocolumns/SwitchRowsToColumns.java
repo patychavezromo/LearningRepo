@@ -20,6 +20,9 @@ public class SwitchRowsToColumns {
         System.out.print("\n\nTHIS IS THE MATRIX WITH INVERTED ROWS AND COLUMNS\n");
         int rows= mainMatrix.length;
         int columns= mainMatrix[0].length;
+        if(rows != columns){
+            throw new RuntimeException("the rows must have the same size as the columns");
+        }
         int[][] invertedMatrix = new int [rows][columns];
             for (int i=0; i < mainMatrix.length; i++) {
                 for (int j = 0; j < mainMatrix[i].length; j++) {
