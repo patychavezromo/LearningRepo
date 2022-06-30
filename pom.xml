@@ -25,6 +25,14 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.ajbrown/name-machine -->
+    <dependency>
+      <groupId>org.ajbrown</groupId>
+      <artifactId>name-machine</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+
   </dependencies>
 
   <build>
