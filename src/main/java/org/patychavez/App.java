@@ -3,6 +3,7 @@ package org.patychavez;
 import org.patychavez.arraypractice.matrixprinter.MatrixPrinterMain;
 import org.patychavez.arraypractice.onedimensionalarray.OneDimensionalArrayMain;
 import org.patychavez.arraypractice.switchrowstocolumns.SwitchRowsToColumnsMain;
+import org.patychavez.lists.averagescore.AverageScoreMain;
 import org.patychavez.lists.studentfilter.StudentFilter;
 import org.patychavez.lists.studentfilter.StudentFilterMain;
 import org.patychavez.utils.school.StudentSolicitor;
@@ -19,7 +20,7 @@ public class App
     public static void main( String[] args )
     {
 
-        StudentFilterMain studentFilterMain = new StudentFilterMain();
-        studentFilterMain.main();
+        AverageScoreMain averageScoreMain = new AverageScoreMain();
+        averageScoreMain.main();
     }
 }
