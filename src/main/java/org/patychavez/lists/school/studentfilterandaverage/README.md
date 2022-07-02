@@ -4,7 +4,7 @@
 
 This program filters the students with a score equal to or greater than the indicated grade and performs an average of that filtering.
 
-mortar_board:
+:mortar_board:
 
 ```java
 public void main(){
