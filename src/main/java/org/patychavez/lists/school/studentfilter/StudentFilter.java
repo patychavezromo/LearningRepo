@@ -1,4 +1,4 @@
-package org.patychavez.lists.studentfilter;
+package org.patychavez.lists.school.studentfilter;
 
 import org.patychavez.utils.school.Students;
 

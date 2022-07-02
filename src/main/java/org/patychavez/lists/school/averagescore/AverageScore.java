@@ -1,4 +1,4 @@
-package org.patychavez.lists.averagescore;
+package org.patychavez.lists.school.averagescore;
 
 import org.patychavez.utils.school.Students;
 
