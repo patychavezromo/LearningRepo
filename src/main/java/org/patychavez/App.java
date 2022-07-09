@@ -1,18 +1,17 @@
 package org.patychavez;
 
-import org.patychavez.lists.school.averagescore.AverageScoreMain;
-import org.patychavez.lists.school.studentfilterandaverage.FilterAnAverageMain;
+import org.patychavez.arraypractice.infinitearray.MainListPaty;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
     {
 
-        FilterAnAverageMain filterAnAverageMain = new FilterAnAverageMain();
-        filterAnAverageMain.main();
+        MainListPaty mainListPaty= new MainListPaty();
+        mainListPaty.main();
+
+
+
     }
 }
