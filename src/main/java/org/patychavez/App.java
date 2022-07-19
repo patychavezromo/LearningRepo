@@ -1,7 +1,7 @@
 package org.patychavez;
 
-import org.patychavez.arraypractice.infinitearray.MainListPaty;
-import org.patychavez.lists.linkedlistpaty.LinkedListMain;
+import org.patychavez.arraypractice.infinitearray2.InfiniteArrayMain2;
+
 
 
 public class App 
@@ -9,8 +9,8 @@ public class App
     public static void main( String[] args )
     {
 
-        LinkedListMain linkedListMain= new LinkedListMain();
-        linkedListMain.main();
+        InfiniteArrayMain2 infiniteArrayMain2= new InfiniteArrayMain2();
+        infiniteArrayMain2.main();
 
 
 
